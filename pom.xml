@@ -39,7 +39,7 @@
     <jenkins.version>2.275</jenkins.version>
     <maven.version>3.6.0</maven.version>
     <gmavenplus-plugin.version>1.6.1</gmavenplus-plugin.version>
-    <groovy-all.version>2.5.0</groovy-all.version>
+    <groovy-all.version>2.5.14</groovy-all.version>
 
     <!-- plugin dependencies -->
     <workflow-api.version>2.41</workflow-api.version>                               <!-- Pipeline: API -->
